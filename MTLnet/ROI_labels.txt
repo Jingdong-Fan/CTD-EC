@@ -1,0 +1,11 @@
+ROIs labels
+
+X1 -- CA1
+X2 -- CA23DG
+X3 -- SUB
+X4 -- ERC
+X5 -- BA35
+X6 -- BA36
+X7 -- PHC
+
+
